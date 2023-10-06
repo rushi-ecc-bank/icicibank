@@ -1,1 +1,2 @@
-this file is deployment 
+this file is deployment
+added logic in deploy file
